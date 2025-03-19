@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 131.3 94.7" style="enable-background:new 0 0 131.3 94.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000064326002341505852510000015739241686087948980_);}
+	.st2{fill:url(#SVGID_00000060005425460931805920000011804198687222028197_);}
+	.st3{fill:#FFFFFF;}
+</style>
+<symbol  id="webstorm" viewBox="-35 -35 70 70">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-9.9454" y1="-33.5363" x2="8.1696" y2="31.6787">
+		<stop  offset="0.285" style="stop-color:#07C3F2"/>
+		<stop  offset="0.941" style="stop-color:#087CFA"/>
+	</linearGradient>
+	<path class="st0" d="M-25.6,28.3L-35-27.6l17.4-7.3l11.2,6.6l10.2-5.5l21.3,8.2L13.1,35L-25.6,28.3z"/>
+	
+		<linearGradient id="SVGID_00000086679351123954175800000005335411421542138548_" gradientUnits="userSpaceOnUse" x1="-4.2756" y1="-25.269" x2="26.3694" y2="19.668">
+		<stop  offset="0.14" style="stop-color:#FCF84A"/>
+		<stop  offset="0.366" style="stop-color:#07C3F2"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000086679351123954175800000005335411421542138548_);" d="M35-11.3l-9-22.3L9.6-35l-25.3,24.3
+		l6.9,31.4l12.7,8.9L35,11L27.3-3.3L35-11.3z"/>
+	
+		<linearGradient id="SVGID_00000004517838450014463970000001871988496547500463_" gradientUnits="userSpaceOnUse" x1="26.0985" y1="-19.7147" x2="30.1225" y2="-5.4607">
+		<stop  offset="0.285" style="stop-color:#07C3F2"/>
+		<stop  offset="0.941" style="stop-color:#087CFA"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000004517838450014463970000001871988496547500463_);" d="M21-14.7l6.3,11.4l7.7-8l-5.6-13.9
+		L21-14.7z"/>
+	<path d="M21-21h-42v42h42V-21z"/>
+	<path class="st3" d="M-0.6,13.6h-15.8v2.7h15.8V13.6z"/>
+	<path class="st3" d="M-0.8-15.8l-2.4,9.2l-2.7-9.2h-2.7l-2.7,9.2l-2.4-9.2h-3.6L-12.7,0h2.9l2.6-9.1L-4.7,0h3l4.5-15.8H-0.8z"/>
+	<path class="st3" d="M3.5-2.2l2-2.4c1.4,1.2,2.9,1.9,4.7,1.9c1.4,0,2.3-0.6,2.3-1.5v-0.1c0-0.9-0.6-1.3-3.1-2
+		c-3.2-0.8-5.2-1.7-5.2-4.8v-0.1c0-2.9,2.3-4.8,5.5-4.8c2.3,0,4.3,0.7,5.9,2l-1.8,2.6c-1.4-1-2.8-1.5-4.1-1.5c-1.3,0-2,0.6-2,1.4
+		v0.1c0,1,0.7,1.4,3.4,2.1c3.2,0.8,5,2,5,4.8v0.1c0,3.1-2.4,4.9-5.8,4.9C7.8,0.3,5.4-0.6,3.5-2.2z"/>
+</symbol>
+<g>
+	<defs>
+		<rect id="SVGID_00000052811293053765693170000012122855536704983966_" x="30.7" y="12.4" width="70" height="70"/>
+	</defs>
+	<clipPath id="SVGID_00000005262198569055869510000016161069083894058918_">
+		<use xlink:href="#SVGID_00000052811293053765693170000012122855536704983966_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000005262198569055869510000016161069083894058918_);">
+		
+			<use xlink:href="#webstorm"  width="70" height="70" x="-35" y="-35" transform="matrix(1 0 0 1 65.6613 47.3717)" style="overflow:visible;"/>
+	</g>
+</g>
+</svg>
