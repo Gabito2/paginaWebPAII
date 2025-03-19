@@ -1,0 +1,28 @@
+li{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img.card-img-top{
+    height: 200px;
+    object-fit: contain;
+}
+ p{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ a{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+body{
+    background-image: url(assets/vecteezy_camping-in-the-desert-ilustration-monochrome-desert_23452823.svg);
+    background-size: cover; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: scroll;
+}
+
