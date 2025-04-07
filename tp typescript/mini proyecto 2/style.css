@@ -1,0 +1,79 @@
+h1{
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+    color: #000000;
+    margin-top: 30px;
+}
+
+button.generar{
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    background-color: #0090cb;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+button.limpiar{
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    background-color: #888888;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+div.container{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+h2.titulo{
+    font-family: monospace;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+h2.contra{
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#passwordDisplay {
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 400px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff0fa;
+}
+
+#passwordDisplay h3 {
+    word-break: break-word;
+}

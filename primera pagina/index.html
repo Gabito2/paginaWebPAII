@@ -119,7 +119,9 @@
                 <div class="card text-center h-100" data-title="webstorm">
                     <img src="assets/JetBrains%20WebStorm.svg" class="card-img-top img-fluid" alt="Angular">
                     <div class="card-body">
-                        <p class="card-text">WebStorm es un entorno de desarrollo integrado (IDE) que permite crear, editar y depurar código web. Se utiliza para desarrollar aplicaciones web con JavaScript, TypeScript, HTML, CSS, XML y otros lenguajes relacionados. </p>
+                        <p class="card-text">WebStorm es un entorno de desarrollo integrado (IDE) que permite crear,
+                            editar y depurar código web. Se utiliza para desarrollar aplicaciones web con JavaScript,
+                            TypeScript, HTML, CSS, XML y otros lenguajes relacionados. </p>
                     </div>
                 </div>
             </div>
@@ -127,29 +129,20 @@
                 <div class="card text-center h-100" data-title="tailwind">
                     <img src="assets/tailwind.svg" class="card-img-top img-fluid" alt="Angular">
                     <div class="card-body">
-                        <p class="card-text">es un framework de CSS que permite crear interfaces de usuario personalizadas de manera rápida y eficiente. Se basa en clases de utilidad que se pueden aplicar en el código HTML.  </p>
+                        <p class="card-text">es un framework de CSS que permite crear interfaces de usuario
+                            personalizadas de manera rápida y eficiente. Se basa en clases de utilidad que se pueden
+                            aplicar en el código HTML. </p>
                         <a href="https://tailwindcss.com/" class="btn btn-primary">Ir</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    
+    <script src="funtion.js"></script>
 
-    <script>
-        document.getElementById('searchForm').addEventListener('submit', function (e) {
-            e.preventDefault();
-            const searchValue = document.getElementById('searchInput').value.toLowerCase();
-            const cards = document.querySelectorAll('#cardContainer .card');
-            cards.forEach(card => {
-                const title = card.getAttribute('data-title');
-                if (title.includes(searchValue)) {
-                    card.style.display = 'block';
-                } else {
-                    card.style.display = 'none';
-                }
-            });
-        });
-    </script>
+    <script src="funtionsTypescript.ts"></script>   
+
 </body>
 
 </html>
