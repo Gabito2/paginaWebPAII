@@ -28,5 +28,5 @@ function copiarContrasena(contrasena) {
 function LimpiarContra(){
     contrasena = "";
     passwordDisplay.innerHTML = "";
-
 }
+
