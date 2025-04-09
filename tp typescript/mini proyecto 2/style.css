@@ -1,79 +1,56 @@
-h1{
-    font-family: monospace;
-    font-size: 40px;
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     text-align: center;
-    color: #000000;
-    margin-top: 30px;
-}
-
-button.generar{
-    font-family: monospace;
-    font-size: 30px;
-    text-align: center;
-    background-color: #0090cb;
-    border: none;
+    width: 300px;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  input[type="number"] {
+    width: 60px;
+    padding: 5px;
+    font-size: 1rem;
+  }
+  
+  button {
+    background-color: #4caf50;
     color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 15px;
-}
-
-button.limpiar{
-    font-family: monospace;
-    font-size: 30px;
-    text-align: center;
-    background-color: #888888;
     border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    border-radius: 5px;
     cursor: pointer;
-    border-radius: 15px;
-}
-
-div.container{
-    width: 50%;
-    margin: auto;
-    text-align: center;
-}
-
-h2.titulo{
-    font-family: monospace;
-    font-size: 35px;
-    text-align: center;
-    margin-top: 30px;
-}
-
-h2.contra{
-    font-family: monospace;
-    font-size: 20px;
-    text-align: center;
-    margin-top: 30px;
-}
-
-#passwordDisplay {
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .password-box {
     margin-top: 20px;
     padding: 10px;
-    border: 2px solid #ccc;
-    border-radius: 10px;
-    text-align: center;
-    max-width: 400px;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #fff0fa;
-}
-
-#passwordDisplay h3 {
-    word-break: break-word;
-}
+    background-color: #eee;
+    border-radius: 6px;
+    word-break: break-all;
+    font-weight: bold;
+  }
+  

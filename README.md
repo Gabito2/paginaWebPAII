@@ -7,17 +7,8 @@ reartegabriel25@gmail.com
 ## Correo Estudiantil
 grearte@alumnos.undec.edu.ar
 
-# Tema de la pagina
+# Tema de la pagina 1
 Se basa en los temas que vamos a aboradar en la asignatura, tanto en librerias como IDEs
 
-# Contenido
-Dentro de la pagina se encuentran varias cards con informacion sobre los IDEs o librerias
-
-#### Por ejemplo
-* Webstorm
-* Visual Studio Code
-* Tailwind css
-* HTML
-* CSS
-* Bootstrap
-* Angular (framework)
+# Tema de la pagina 2
+Se basa en una pagina donde se puede crear passwords aleatorias dependiendo de la cantidad de caracteres que ingrese el usuario
